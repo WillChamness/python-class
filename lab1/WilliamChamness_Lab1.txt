@@ -1,0 +1,24 @@
+3.
+11 base 10 = 0000 1011 base 2
+65 base 10 = 0100 0001 base 2
+100 base 10 = 0110 0100 base 2
+255 base 10 = 1111 1111 base 2
+
+4.
+1101 base 2 = 13 base 10
+1000 base 2 = 8 base 10
+101011 base 2 = 43 base 10 
+
+5.
+'W' - 87
+'i' - 105
+'l' - 108
+'a' - 97
+'m' - 109
+
+6.
+Guido van Rossum was the creator of Python
+
+Python was released on February 20, 1991
+
+BDFL stands for benevolent dictator for life
