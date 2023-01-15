@@ -1,0 +1,5 @@
+name = input("Enter first, middle, and last name (e.g. John William Smith): ").split(" ")
+finitial = name[0][0].upper()
+minitial = name[1][0].upper()
+linitial = name[2][0].upper()
+print(finitial + ". " + minitial + ". " + linitial + ". ")
